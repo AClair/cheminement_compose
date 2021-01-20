@@ -13,8 +13,8 @@ My work
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
+<th> Carnet corpus </th>
+<th> Carnet personnel </th>
 </tr>
 <tr>
 <td>
