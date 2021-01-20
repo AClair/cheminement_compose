@@ -19,18 +19,14 @@ My work
 <tr>
 <td>
 
-```
 Bonjour 1
 
-```
 
 </td>
 <td>
 
-```
 Bonjour 2
 
-```
 
 </td>
 </tr>
