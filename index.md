@@ -1,4 +1,5 @@
-# Cheminement composé
+***
+## Cheminement composé
 _Voyage à travers les processus de composition_
 
 ---
