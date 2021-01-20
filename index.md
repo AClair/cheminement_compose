@@ -1,14 +1,13 @@
 # Cheminement composé
 _Voyage à travers les processus de composition_
 
-My work
-[Alica](https://soundcloud.com/ali_ca)
+
 
 
 
 # Introduction
 
-<iframe width="280" height="157.5" src="https://www.youtube.com/embed/ox0LF4iOBO4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 <table>
@@ -21,11 +20,14 @@ My work
 
 Bonjour 1
 
+<iframe width="280" height="157.5" src="https://www.youtube.com/embed/ox0LF4iOBO4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </td>
 <td>
 
 Bonjour 2
+My work
+[Alica](https://soundcloud.com/ali_ca)
 
 
 </td>
