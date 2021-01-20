@@ -10,41 +10,14 @@ _Voyage à travers les processus de composition_
 
 
 
-<table>
-<tr>
-<th> Carnet corpus </th>
-<th> Carnet personnel </th>
-</tr>
-<tr>
-<td>
-
-Bonjour 1
 
 <iframe width="280" height="157.5" src="https://www.youtube.com/embed/ox0LF4iOBO4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</td>
-<td>
 
-Bonjour 2
 My work
 [Alica](https://soundcloud.com/ali_ca)
 
 
-</td>
-</tr>
-</table>
-
-
-<div class="row">
-  <div class="col-md-8" markdown="1">
-    [Alica](https://soundcloud.com/ali_ca)
-
-  </div>
-  <div class="col-md-4" markdown="1">
-  Some text.
-   
-  </div>
-</div>
 
 
 
