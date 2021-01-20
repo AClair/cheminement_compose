@@ -38,6 +38,8 @@ My work
 <div class="row">
   <div class="col-md-8" markdown="1">
   Some text.
+    [Alica](https://soundcloud.com/ali_ca)
+
   </div>
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
