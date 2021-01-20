@@ -20,9 +20,7 @@ My work
 <td>
 
 ```c++
-int foo() {
-    int result = 4;
-    return result;
+Bonjour 1
 }
 ```
 
@@ -30,9 +28,7 @@ int foo() {
 <td>
 
 ```c++
-int foo() { 
-    int x = 4;
-    return x;
+Bonjour 2
 }
 ```
 
