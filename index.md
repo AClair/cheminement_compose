@@ -19,17 +19,17 @@ My work
 <tr>
 <td>
 
-```c++
+```
 Bonjour 1
-}
+
 ```
 
 </td>
 <td>
 
-```c++
+```
 Bonjour 2
-}
+
 ```
 
 </td>
