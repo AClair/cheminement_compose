@@ -7,11 +7,11 @@ _Voyage à travers les processus de composition_
 
 # Introduction
 
-
-
-
-
 <iframe width="280" height="157.5" src="https://www.youtube.com/embed/ox0LF4iOBO4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+_Pierre Henry et Michel Colombier en 1968: 
+Messe pour le temps présent part 3, Jericho Jerk_
+
+
 
 
 My work
